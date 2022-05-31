@@ -1,6 +1,9 @@
 # Clone-of-BestBuy.com
+
 “BEST BUY ” Website Clone Project | Masai School,
 In this blog post, we are discussing the “BEST BUY” website Clone. In this project, we are introducing some categories or pages with the login and signup pages.
+
+Deploye Link: https://distracted-pasteur-d400f9.netlify.app/
 
 Languages Used-
 The website looks very amazing and introduces amazing JavaScript, HTML, and CSS languages. We are sharing the details of the coding languages used in this project given below:
